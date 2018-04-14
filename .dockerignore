@@ -1,0 +1,11 @@
+
+# Ignore everything
+*
+
+# But not these files...
+!myproject
+!uwsgi
+!requirements.txt
+!supervisord.conf
+!entrypoint.sh
+!logging.conf
